@@ -1,0 +1,69 @@
+Assignment-1: Python Libraries
+
+1. Pandas
+
+Pandas is a powerful data manipulation and analysis library for Python. Its main features include:
+
+a. Data handling tools such as DataFrame and Series that enable efficient management of data.
+
+b. Tools for reading and writing between in-memory data structures and other formats
+
+c. Intelligent handling of missing data with appropriate alignment of data
+
+d. Joining and merging datasets together
+
+
+2. NumPy
+
+NumPy (Numerical Python) is the core scientific computing package in python including:
+
+a. A powerful object with N dimensions array,
+
+b. Random number generation, algebraic operations support,
+
+
+3. TensorFlow
+
+TensorFlow is an open-source machine learning framework built by Google that provides:
+
+a. A flexible ecosystem which consists of tools, libraries, and community resources.
+
+b. Simplicity when building models with high-level APIs like Keras APIs.
+
+c. Strong machine learning abilities.
+
+
+4. Keras
+
+Keras is a high-level API for neural networks written in Python, which can run on top of TensorFlow, CNTK or Theano providing:
+
+a User-friendly interface to build neural networks,
+
+b Support for Convolutional Networks,
+
+c Able to run both CPU and GPU without any notable changes
+
+
+5. Python’s scikit-learn
+
+Scikits-learn (sklearn) is a machine learning library for Python which provides among others:
+
+a. Simple and effective instruments for data mining and analysis
+
+b. Open source, license free usable in commercial projects
+
+c. A wide range of classification/regression/clustering algorithms and many more
+
+
+6. PyTorch: 
+
+Machine Learning Exoskeletons Made Lightweight by Facebook AI Research Lab.
+It offers:
+
+a. GPU accelerated tensor computations
+
+b. Deep neural networks built using a “tape-based autograd system”
+
+c. Many tools and libraries that make it rich in its ecosystem.
+
+d. Commonly used in research
