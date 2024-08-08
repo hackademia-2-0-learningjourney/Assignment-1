@@ -1,0 +1,21 @@
+# Pandas
+Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.
+
+# Numpy
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+# TensorFlow
+TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks. It was developed by the Google Brain team for Google's internal use in research and production.
+
+# Keras
+Keras is an open-source library that provides a Python interface for artificial neural networks. Keras was first independent software, then integrated into the TensorFlow library, and later supporting more.
+
+# Sklearn (Scikit-learn)
+scikit-learn is a free and open-source machine learning library for the Python programming language.
+- Simple and efficient tools for predictive data analysis
+- Accessible to everybody, and reusable in various contexts
+- Built on NumPy, SciPy, and matplotlib
+- Open source, commercially usable - BSD license
+
+# Pytorch
+PyTorch is a machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella.
