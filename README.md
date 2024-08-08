@@ -18,6 +18,7 @@ Instructions:
 
 Sure! Here's a brief overview of each of these popular Python libraries:
 
+
 1. NumPy
 Purpose: Numerical computing.
 
@@ -26,6 +27,7 @@ Key Features:
 N-dimensional array object (ndarray)
 Broadcasting functions
 Linear algebra, Fourier transform, and random number capabilities
+
 2. Pandas
 Purpose: Data manipulation and analysis.
 
@@ -36,6 +38,7 @@ Series: 1-dimensional labeled data structure
 Powerful data alignment and handling of missing data
 Reshaping, merging, and joining of datasets
 Time series-specific functionality
+
 3. Scikit-learn
 Purpose: Machine learning.
 
@@ -45,6 +48,7 @@ Classification, regression, and clustering algorithms (e.g., SVM, random forest,
 Dimensionality reduction (e.g., PCA, feature selection)
 Model selection and evaluation (e.g., cross-validation, metrics)
 Preprocessing utilities (e.g., standardization, normalization)
+
 4. TensorFlow
 Purpose: Machine learning and artificial intelligence.
 
@@ -55,6 +59,7 @@ TensorBoard for visualizing the model training process
 TensorFlow Serving for deploying models
 TensorFlow Lite for mobile and embedded devices
 TensorFlow.js for running models in the browser
+
 5. Keras
 Purpose: High-level neural networks API.
 
@@ -64,6 +69,7 @@ User-friendly and modular
 Supports convolutional networks (for image processing) and recurrent networks (for sequence processing)
 Built-in support for multi-GPU and distributed training
 Simple and consistent interface optimized for common use cases
+
 6. PyTorch
 Purpose: Deep learning.
 
